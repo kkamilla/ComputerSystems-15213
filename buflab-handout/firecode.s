@@ -1,0 +1,3 @@
+movl $0x2113a463,0x804b324
+mov $0x08048ca6,%rbx
+call *%rbx
