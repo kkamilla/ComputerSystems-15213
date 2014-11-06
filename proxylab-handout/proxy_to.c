@@ -1,9 +1,9 @@
 /*
  * proxy.c
  *
- * Name:- Vishal Shahane
- * Andrew ID:- vshahane
- * Email ID:- vshahane@andrew.cmu.edu
+ * Name:- Krutika Kamilla
+ * Andrew ID:- kkamilla
+ * Email ID:- kkamilla@andrew.cmu.edu
  * 
  * This program implements http web proxy with multithreading 
  * capability and Caching support. It only supports get method
